@@ -10,7 +10,7 @@ surface = Entity(scale=100, scale_y=50, collision=True)
 # main update loop
 def update():
     player.y += held_keys['space'] * 1
-    player.y -= held_keys['shift'] * 1
+    player.y -= held_keys['shift'] * 1qq
 
 def input(key):
     if key == 'escape':
