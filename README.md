@@ -5,7 +5,7 @@ I am unsure if collisions are possible with the images from [http://gwyddion.net
 Probably it is possible by exporting from [http://gwyddion.net/](Gwyddion) to STL and then importing into Blender to create a scene.
 Alternatively, collisions can be detected manually based on the image itself.
 
-![Editor view of AFM height map.] Screenshot_01.png "Editor view of AFM height map."
+![Editor view of AFM height map.] screenshot_01.png "Editor view of AFM height map."
 
 ## Prepare data
 Export your data as a PNG from [http://gwyddion.net/](Gwyddion).
